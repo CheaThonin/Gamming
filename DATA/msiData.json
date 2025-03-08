@@ -1,0 +1,182 @@
+[
+    {
+        "id"       : 1,
+        "title"    : "MSI Crosshair 16 HX D14VFKG-864KH",
+        "image"    : "https://s.alicdn.com/@sc04/kf/H49239b6844d94b5d98cdff28f40b6dafl.jpg_720x720q50.jpg",
+        "detail"   : "High Performance Gaming Netbook MSI GP65 Leopard 10SFK-052CN 15.6 Inch I7-10750H 16G 512G SSD RTX2070 144Hz Laptop",
+        "brands"   : "MSI",
+        "price"    : 1200,
+        "discount" : 999
+    },
+    {
+        "id"       : 2,
+        "title"    : "MSI Crosshair 16 HX D14VFKG-864KH-Cosmos Gray",
+        "image"    : "https://www.gamingstorekh.com/Content/Upload/ItemThumbnail/682f3aad-82f8-4e95-8e2a-75aeedb4aca0.jpg",
+        "detail"   : "Core™ i9-14900HX Processor / RTX 4060, GDDR6 8GB / 16 16:10 QHD+(2560 x 1600), 240Hz, 100% DCI-P3, IPS-level panel / DDR5 8GB*2 / 1TB Gen4 / 24-Zone RGB Gaming Keyboard / Win11 / MSI Gaming Mouse_ M99 Pro , MSI Essential Backpack / 2 Year Warranty",
+        "brands"   : "MSI",
+        "price"    : 1699,
+        "discount" : 1599
+    },
+    {
+        "id"       : 3,
+        "title"    : "MSI Cyborg 15 A13VEK-1663KH-Translucent Black",
+        "image"    : "https://www.gamingstorekh.com/Content/Upload/ItemThumbnail/2a4c20c7-b289-4767-a579-a96946bf912f.png",
+        "detail"   : "i7-13620H / RTX 4050, GDDR6 6GB / 15.6 FHD (1920*1080), 144Hz 45%NTSC IPS-Level / DDR5 16GB / 1TB Gen4 / 4-Zone RGB Gaming Keyboard / Win11 / MSI Gaming Mouse_ M99 Pro , MSI Essential Backpack / 2 Year Warranty",
+        "brands"   : "MSI",
+        "price"    : 1100,
+        "discount" : 988
+    },
+    {
+        "id"       : 4,
+        "title"    : "Crosshair 17 HX D14VGKG-235KH Cosmos Gray",
+        "image"    : "https://www.gamingstorekh.com/Content/Upload/ItemThumbnail/f02023a2-0804-47d9-bb17-ab22bb4c353b.png",
+        "detail"   : "i7-14650HX/ RTX 4070, GDDR6 8GB / DDR5 8GB*2 / 1TB Gen4 / 17 16:10 QHD+(2560 x1600), 240Hz, 100% DCI-P3, IPS-level panel / Win11/ MSI GamingMouse_ M99 Pro, MSI EssentialBackpack / 2 Year Warranty",
+        "brands"   : "MSI",
+        "price"    : 1799,
+        "discount" : 1699
+    },
+    {
+        "id"       : 5,
+        "title"    : "MSI Modern 14 F13MG-273XKH-Urban Silver",
+        "image"    : "https://www.gamingstorekh.com/Content/Upload/ItemThumbnail/0f8b38cf-0bb9-48ab-a0ba-74978aa47b3d.png",
+        "detail"   : "i5-1334U / Iris Xe Graphics / 14 FHD (1920*1080), 60Hz 45%NTSC IPS-Level / DDR4 8GB (3200MHz) / 512GB Gen4 / Single backlight Keyboard(White) / No OS / MSI Mouse_M88 , MSI Essential Backpack(Out box) / 2 Year Warranty",
+        "brands"   : "MSI",
+        "price"    : 489,
+        "discount" : 469
+    },
+    {
+        "id"       : 6,
+        "title"    : "MSI Summit 13 AI+ Evo A2VMTG-037KH-Ink Black",
+        "image"    : "https://www.gamingstorekh.com/Content/Upload/ItemThumbnail/ebaad45e-1e8f-435b-aff3-7b517c54896b.png",
+        "detail"   : "Core™ Ultra 7 258V / Intel® Arc Graphics / 13.3” 16:10 FHD+ (1920x1200), Touchscreen, 100% sRGB(Typical), IPS-Level panel, Support MSI Pen2 / 32GB LPDDR5x / 1TB Gen4 / Single backlight Keyboard(White) / Win11 / MSI Bluetooth Mouse_M98 , MSI Essential Backpack / 2 Year Warranty",
+        "brands"   : "MSI",
+        "price"    : 1699,
+        "discount" : 1499
+    },
+    {
+        "id"       :7,
+        "title"    : "MSI Katana 17 B13VEK-1435KH-Black",
+        "image"    : "https://www.gamingstorekh.com/Content/Upload/ItemThumbnail/133d9a41-f7d3-46cf-a8e1-05a0457c3759.png",
+        "detail"   : "i7-13620H / RTX 4050, GDDR6 6GB / 17.3 QHD (2560*1440), 240Hz DCI-P3 100% typical / DDR5 16GB / 1TB Gen4 / 4-Zone RGB Gaming Keyboard / Win11 / MSI Gaming Mouse_ M99 Pro , MSI Essential Backpack / 2 Year Warranty",
+        "brands"   : "MSI",
+        "price"    : 1149,
+        "discount" : 1110
+    },
+    {
+        "id"       : 8,
+        "title"    : "MSI Prestige 16 AI+ Evo B2VMG-052KH -Stellar Gray",
+        "image"    : "https://www.gamingstorekh.com/Content/Upload/ItemThumbnail/8adafe25-3d44-486f-8b01-46f8bf1c4eab.png",
+        "detail"   : "Core™ Ultra 7 258V / Intel® Arc Graphics / 16“ 16:10 QHD+ (2560x1600), 100% DCI-P3(Typical), 400nits(Typical), IPS- Level panel / 32GB LPDDR5x / 1TB Gen4 / Single backlight Keyboard(White) / Win11 / MSI Bluetooth Mouse_M98 , MSI Essential Backpack / 2 Year Warranty",
+        "brands"   : "MSI",
+        "price"    : 1599,
+        "discount" : 1499
+    },
+    {
+        "id"       : 9,
+        "title"    : "MSI Cyborg 14 A13VE-226KH-Translucent Black",
+        "image"    : "https://www.gamingstorekh.com/Content/Upload/ItemThumbnail/b1d11a8e-6cc6-44e6-8a7f-9d120c295230.png",
+        "detail"   : "i7-13620H / RTX 4050, GDDR6 6GB / 14 16:10 FHD+ (1920x1200), 144hz 100%sRGB / DDR5 8GB*2 / 512GB Gen4 / Blue Backlit Gaming Keyboard / Win11 / MSI Gaming Mouse_ M99 Pro , MSI Essential Backpack / 2 Year Warranty",
+        "brands"   : "MSI",
+        "price"    : 999,
+        "discount" : 899
+    },
+    {
+        "id"       : 10,
+        "title"    : "MSI Titan 18 HX A14VIG-093KH-Core Black",
+        "image"    : "https://www.gamingstorekh.com/Content/Upload/ItemThumbnail/be6ee840-3eae-4f33-a946-89af12f3be42.jpeg",
+        "detail"   : "i9-14900HX / RTX 4090,GDDR6 16GB / DDR532GB*4 / 4TB Gen4 / 18 16:10 UHD+ (3840x2400),MiniLED, 120Hz, 100% DCI-P3 (Typ.), IPS-Level panel / Cherry MechanicalPer-Key RGB gamingkeyboard bySteelSeries/ Win11 / MSI Dual Drive256GB + MSILucky FigureKeychain_Black, MSI GamingMouse / 2 Year Warranty",
+        "brands"   : "MSI",
+        "price"    : 5699,
+        "discount" : 5610
+    },
+    {
+        "id"       : 11,
+        "title"    : "MSI Raider 18 HX A14VIG-457KH-Core Black",
+        "image"    : "https://www.gamingstorekh.com/Content/Upload/ItemThumbnail/89a4c1b3-b159-4ae6-811f-3f099a6357c3.png",
+        "detail"   : "Intel®Core™ i9-14900HXProcessor /RTX 4090,GDDR6 16GB /DDR5  16GB*2 /2TB NVMePCIeGen4 / 18 16:10 UHD+(3840x2400),MiniLED, 120Hz,100% DCI-P3(Typ.), IPS-Levelpanel /Per-Key RGB gamingkeyboard bySteelSeries /(Have In Box) MSIHeadset_H901 GC ,MSIGamingMouse_M99 Pro ,TitanGamingBackpack / W11/ 2Years  (MSI Headset_H901 GC )",
+        "brands"   : "MSI",
+        "price"    : 3999,
+        "discount" : 3910
+    },
+    {
+        "id"       : 12,
+        "title"    : "MSI Prestige 16 AI Evo B1MG-052KH Stellar Gray",
+        "image"    : "https://www.gamingstorekh.com/Content/Upload/ItemThumbnail/11358caa-125b-4781-97ec-99c56d414396.png",
+        "detail"   : "Core™ Ultra 7processor155H / LPDDR5 16GB / 1TB Gen4 / 16“ 16:10QHD+(2560x1600),100% /DCI-P3(Typical),400nits(Typical),IPS-Level panel /Single backlightKB(White)/MSI Topload Bag_Grey, MSI Bluetooth Mouse_M98 Box / win11 / ",
+        "brands"   : "MSI",
+        "price"    : 1199,
+        "discount" : 1110
+    },
+    {
+        "id"       : 13,
+        "title"    : "MSI Prestige 13 AI Evo A1MG-088KH Stellar Gray",
+        "image"    : "https://www.gamingstorekh.com/Content/Upload/ItemThumbnail/dc61275c-3c3c-4523-b157-97397227ec48.jpg",
+        "detail"   : "Core™ Ultra 7processor155H /LPDDR5 32GB / 1TB Gen4/ 13.3 16:10,2.8K (2880 x1800) OLEDpanel, 100%DCI-P3 /SinglebacklightKB(White)/(Typ.)MSI Topload Bag_Grey, MSI Bluetooth Mouse_M98 Box / win11 / 2years",
+        "brands"   : "MSI",
+        "price"    : 1199,
+        "discount" : 1099
+    },
+    {
+        "id"       : 14,
+        "title"    : "MSI Stealth 16 Mercedes-AMG Motorsport A1VGG Selenite Gray",
+        "image"    : "https://www.gamingstorekh.com/Content/Upload/Item/2c765586-4c88-439d-997d-f3b4dd8020f0.png",
+        "detail"   : "Core™Ultra 9 processor185H /RTX 4070,GDDR6 8GB /2TB NVMePCIe SSDGen4 /DDR5  16GB*2 /16 16:10 QHD+ (2560 x1600) OLED, 240hz, 100%DCI-P3 (Typ.) /Per-Key RGBgamingkeyboard bySteelSeries /Win11 /Stealth 16Mercedes-AMGMotorsport Giftpack/2 Year",
+        "brands"   : "MSI",
+        "price"    : 2599,
+        "discount" : 2510
+    },
+    {
+        "id"       : 15,
+        "title"    : "MSI Stealth 16 Mercedes A13VG-288KH-Selenite Gray",
+        "image"    : "https://www.gamingstorekh.com/Content/Upload/ItemThumbnail/d6b39964-9a5c-4fa5-bb44-8c706d0caed9.png",
+        "detail"   : "Intel Core i9-13900H/ DDR5-16Gx2/ 2TB NVMe PCIe Gen4x4 SSD/ 16 UHD+ (3840x2400)/ RTX4070-8GB/ Win11",
+        "brands"   : "MSI",
+        "price"    : 2699,
+        "discount" : 2610
+    },
+    {
+        "id"       : 16,
+        "title"    : "MSI Pulse 17 AI C1VGKG-019KH Core Black",
+        "image"    : "https://www.gamingstorekh.com/Content/Upload/ItemThumbnail/554331b1-b26c-43cb-8802-bfbec979e112.png",
+        "detail"   : "Intel Core Ultra 9 185H /RTX 4070, GDDR6 8GB /DDR5 16GB / 1TB NVMe PCIe SSD Gen4 /17 16:10 QHD+(2560 x 1600), 240Hz, 100% DCI-P3, IPS-level panel / 24-Zone RGB Gaming Keyboard /Win 11 /Gaming Mouse_ M99 Pro Box,MSI Essential Backpack,MSI Headset_H901 GC/ 2 Years",
+        "brands"   : "MSI",
+        "price"    : 1849,
+        "discount" : 1799
+    },
+    {
+        "id"       : 17,
+        "title"    : "MSI Pulse 16 AI C1VFKG-014KH Core Black",
+        "image"    : "https://www.gamingstorekh.com/Content/Upload/Item/884db98e-d63a-45c8-b0db-00285f1bacc8.png",
+        "detail"   : "Intel Core Ultra 7 155H / RTX 4060, GDDR6 8GB /DDR5 16GB*2 /1TB NVMe PCIe SSD Gen4 /16 16:10 QHD+(2560 x 1600), 240Hz, 100% DCI-P3, IPS-level panel/24-Zone RGB Gaming Keyboard / Win 11 /Gaming Mouse_ M99 Pro Box,MSI Essential Backpack,MSI Headset_H901 GC/ 2 Years",
+        "brands"   : "MSI",
+        "price"    : 1699,
+        "discount" : 1599
+    },
+    {
+        "id"       : 18,
+        "title"    : "MSI Thin 15 B12UC-1447KH-Cosmos Gray",
+        "image"    : "https://www.gamingstorekh.com/Content/Upload/Item/17338269-1c8d-4965-b4ad-384f65f93310.png",
+        "detail"   : "Intel i7-12650H/ RTX 3050 4GB, GDDR6 4GB /DDR IV 16GB /1TB NVMe PCIe SSD Gen4 /15.6 FHD (1920*1080), 144Hz 45%NTSC IPS-Level /Blue Backlit Gaming Keyboard /Win 11/Gaming Mouse_ M99 Pro Box,MSI Essential Backpack/ 2 Year",
+        "brands"   : "MSI",
+        "price"    : 799,
+        "discount" : 710
+    },
+    {
+        "id"       : 19,
+        "title"    : "MSI Thin 15 B12VE-1449KH-Cosmos Gray",
+        "image"    : "https://www.gamingstorekh.com/Content/Upload/Item/7184a9e5-0cbe-4146-af55-0d86adffdbdd.png",
+        "detail"   : "i7-12650H /RTX 4050, GDDR6 6GB /DDR IV 16GB /1TB NVMe PCIe SSD Gen4 /15.6 FHD (1920*1080), 144Hz 45%NTSC IPS-Level /Blue Backlit Gaming Keyboard /Win 11/Gaming Mouse_ M99 Pro Box,MSI Essential Backpack/ 2 Years",
+        "brands"   : "MSI",
+        "price"    : 899,
+        "discount" : 840
+    },
+    {
+        "id"       : 20,
+        "title"    : "MSI Thin 15 B12UCX-1448KH Cosmos Gray",
+        "image"    : "https://www.gamingstorekh.com/Content/Upload/Item/532bd872-1aea-46d5-ba13-b52bd39d2a27.png",
+        "detail"   : "i5-12450H /RTX 2050, GDDR6 4GB /DDR IV 8GB /512GB NVMe PCIe SSD Gen4 /15.6 FHD (1920*1080),144Hz 45%NTSC IPS-Level /Blue Backlit Gaming Keyboard / Win 11/Gaming Mouse_ M99 Pro Box,MSI Essential Backpack/ 2 Years",
+        "brands"   : "MSI",
+        "price"    : 649,
+        "discount" : 599
+    }
+]

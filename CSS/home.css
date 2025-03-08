@@ -1,0 +1,404 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Freehand&family=Koulen&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Inter', sans-serif;
+    background-color:#21201c;
+}
+.khmer{
+    font-family: "Freehand", cursive;
+    font-size: 25px;
+    /* color: red; */
+}
+.small-khmer{
+    font-family: "Khmer OS Battambang";
+    font-size: 25px;
+    /* color: red; */
+}
+.khmer-small{
+    width: 100%; /* Use 100% for better responsiveness */
+    max-width: 550px; /* Limit maximum width for larger screens */
+    font-family: "Freehand", cursive;
+    font-size: 17px;
+    display: flex;
+    flex-direction: column;
+    gap: 0px; /* Adjusted gap for better spacing */
+    margin: 0 auto; /* Center the element horizontally */
+    padding: 10px; /* Add padding for better readability */
+    line-height: 1.5; /* Improve line spacing for readability */
+    color: inherit; 
+}
+.navbar {
+    position: sticky;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+}
+.navbar{
+    background-color:#f61500;
+    & a {
+        color: white;
+        font-size: 19px;
+    }
+    & .dropdown-item{
+        color: rgb(0, 0, 0);
+    }
+}
+.nav-item.dropdown .dropdown-menu {
+    display: none;
+    opacity: 0;
+    transition: opacity 0.5s ease-in-out;
+}
+
+.nav-item.dropdown:hover .dropdown-menu {
+    display: block;
+    opacity: 1;
+}
+.navbar-nav .nav-link,
+.navbar-nav .dropdown-menu .dropdown-item {
+    transition: color 0.5s ease-in-out, background-color 0.5s ease-in-out;
+}
+
+.navbar-nav .nav-link:hover,
+.navbar-nav .dropdown-menu .dropdown-item:hover {
+    color: #ffcc00 !important; /* Change text color */
+    background-color: #333 !important; /* Change background color */
+}
+.footer {
+    background-color: #21201c;;
+    padding: 40px 0;
+    border-top: 1px solid #f61500;
+    /* box-shadow: 0 0 10px #f6100096; */
+    & p {
+        color: white;
+        transition: all 0.3s ease-in-out;
+    }
+    & p:hover {
+        color: #f61500;
+        cursor: pointer;
+        transition: all 0.4s ease-in-out;
+    }
+    & h4 {
+        color: #f61500;
+    }
+}
+.footer h5 {
+    font-weight: bold;
+}
+.footer a {
+    text-decoration: none;
+    color: #ffffff;
+    transition: all 0.4s ease-in-out;
+}
+.footer a:hover {
+    color: #f61500;;
+    transition: all 0.4s ease-in-out;
+}
+.social-icons a {
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    line-height: 40px;
+    border-radius: 5px;
+    margin-right: 8px;
+    background: #e9ecef;
+}
+.social-icons a:hover {
+    background: #f61500;;
+    color: #fff;
+}
+.title{
+    /* background: #f4540a; */
+    font-weight: bolder;
+}
+.cards{
+    width:100%;
+    border: 1px solid #f6150075;
+    box-shadow: 0 0 10px #ff800059;
+    gap: 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: all 0.4s ease-in-out;
+    & .img{
+        width:100px;
+        height: 100px;
+        background-color: #ffffff;
+        padding: 5px;
+        border-radius: 10px;
+    }
+    & img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+    & h5 {
+        font-size: 15px;
+        display: -webkit-box;
+        -webkit-line-clamp: 2; /* Limit to 2 lines */
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+    }
+    & p {
+        font-size: 14px;
+        color: #737373;
+        display: -webkit-box;
+        -webkit-line-clamp: 1; /* Limit to 2 lines */
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+    }
+    & span {
+        color: #0cc656;
+        font-weight: bold;
+    }
+}
+.cards:hover{
+    background-color: #66655e6a;
+    transition: all 0.4s ease-in-out;
+}
+.page{
+    color: #f61500;
+}
+.box {
+    width: 100%;
+    /* height: 40vh; */
+    /* margin: 50px; */
+    position: relative;
+    border-bottom: 1px solid transparent;
+    padding: 20px;
+    animation: run-border 3s linear infinite;
+    justify-content: space-between;
+  }
+  @keyframes run-border {
+    0% {
+      border-color: rgb(255, 0, 0); 
+    }
+    25% {
+      border-color: rgb(0, 255, 0);
+    }
+    50% {
+      border-color: rgb(0, 0, 255);
+    }
+    75% {
+      border-color: rgb(255, 255, 0);
+    }
+    100% {
+      border-color: rgb(255, 0, 0);
+    }
+}
+.all-product{
+    animation: rotate 0.9s ease-in-out;
+}
+.up{
+    animation: up 1.6s ease-in-out;
+    cursor: pointer;
+}
+.down{
+    animation: up 1.2s ease-in-out;
+}
+.Right-Left{
+    animation: right-left 1.2s ease-in-out infinite;
+    /* animation-direction: alternate; */
+}
+.btnAnimetion{
+    animation: btnAnimetion 1.2s ease-in-out infinite;
+    animation-direction: alternate;
+}
+.rotation{
+    animation: rotation 1.2s ease-in-out infinite;
+    animation-direction: alternate;
+}
+.Change{
+    animation: ChageColor 1.2s ease-in-out infinite;
+    animation-direction: alternate;
+}
+/* Animation */
+@keyframes btnAnimetion {
+    from {
+      transform: scale(1);
+    }
+    to {
+      transform: scale(1.1);
+    }
+  }
+  @keyframes ChageColor {
+    from {
+      color: rgb(255, 255, 255);
+    }
+    to {
+      transform: translateX(10px);
+      color: red;
+    }
+  }
+  @keyframes rotation {
+    from {
+      transform: rotate(-2deg);
+    }
+    to {
+      transform: rotate(2deg);
+    }
+  }
+@keyframes rotate{
+    from{
+       margin-left: -300px; 
+    }
+    to{
+        margin-left: 0px; 
+    }
+}
+@keyframes up{
+    from{
+       margin-top: -300px; 
+    }
+    to{
+        margin-top: 0px; 
+    }
+}
+@keyframes down{
+    from{
+       margin-bottom: -300px; 
+    }
+    to{
+        margin-bottom: 0px; 
+    }
+}
+@keyframes right-left{
+    from{
+       margin-left: -30px; 
+    }
+    to{
+        margin-left: 30px; 
+    }
+}
+@media (max-width: 400px) { /* Adjust as needed */
+    #gaming-store {
+      display: none; /* Hide the original title on small screens */
+    }
+    .img-fluid{
+        width: 200px;
+    }
+  }
+  @media (max-width: 1440px) {
+    .navbar .navbar-brand img {
+      width: 50px;
+
+    }
+    & h5{
+      display: none;
+    }
+
+    .navbar-nav .nav-item {
+      margin-right: 10px;
+    }
+  }
+
+/*  */
+.cards-big{
+    width:100%;
+    border: 1px solid #f6150075;
+    
+    gap: 20px;
+    /* border-radius: 5px; */
+    cursor: pointer;
+    transition: all 0.4s ease-in-out;
+    & .image{
+        width:100%;
+        height: 150px;
+        /* border-radius: 10px; */
+        background: #ffffffa0;
+    }
+    & img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+    & h5 {
+        font-size: 15px;
+        display: -webkit-box;
+        -webkit-line-clamp: 2; /* Limit to 2 lines */
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+    }
+    & span {
+        color: #0cc656;
+        font-weight: bold;
+    }
+}
+.cards-big:hover{
+    background-color: #66655e80;
+    transition: all 0.4s ease-in-out;
+    box-shadow: 0 0 10px #d900ff50;
+}
+/* Custom CSS for the modal */
+#productModal .modal-body img {
+    max-height: 400px;
+    width: 100%;
+    object-fit: cover;
+  }
+  
+  #productModal .modal-body h4 {
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  
+  #productModal .modal-body p {
+    font-size: 1rem;
+    margin-bottom: 0.5rem;
+  }
+  @media (max-width: 767.98px) {
+    #productModal .modal-body {
+      padding: 1.5rem; /* Adjust as needed */
+    }
+  }
+  #productModalBig .modal-body img {
+    max-height: 400px;
+    width: 100%;
+    object-fit: cover;
+  }
+  
+  #productModalBig .modal-body h4 {
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  
+  #productModalBig .modal-body p {
+    font-size: 1rem;
+    margin-bottom: 0.5rem;
+  }
+  #productModalDown .modal-body img {
+    max-height: 400px;
+    width: 100%;
+    object-fit: cover;
+  }
+  
+  #productModalDown .modal-body h4 {
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  
+  #productModalDown .modal-body p {
+    font-size: 1rem;
+    margin-bottom: 0.5rem;
+  }
+  .border-animation {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(90deg, transparent, #ff6b6b, transparent);
+    animation: border-run 3s linear infinite;
+    z-index: 1;
+  }
+  
+  .modal-content {
+    position: relative;
+    overflow: hidden; /* Ensure the animation doesn't overflow */
+    border-radius: 10px; /* Match the modal's border radius */
+    border: 2px solid transparent; /* Add a transparent border to create space for the animation */
+  }
+  
+ 

@@ -1,0 +1,183 @@
+[
+    {
+        "id"       : 1,
+        "title"    : "Acer Nitro Gaming Controller Gamepad USB Negro",
+        "image"    : "https://e2simages.excess2sell.com/images/products/lenovcolain1641553084702_1641553085_lg.png",
+        "detail"   : "Lenovo ThinkPad E14 Gen 2 (20TBS4K300) Laptop (Intel Core i5-1135G7/ 8GB RAM/ 512GB SSD/ DOS/ 14 FHD/ 3 Years Warranty), Black",
+        "brands"   : "Lenovo",
+        "price"    : 700,
+        "discount" : 690
+    },
+    {
+        "id"       : 2,
+        "title"    : "Lenovo LOQ 15IAX9-E-Luna Grey",
+        "image"    : "https://www.gamingstorekh.com/Content/Upload/Item/714d61c6-426e-4409-8511-309ea0d6f5fa.png",
+        "detail"   : "I7-12650HX/RTX 4050 6GB/ 16GB DDR5 4800/512GB Gen 4/15.6 FHD 144Hz/White Backlit/HD 720p with E-shutter/ Win 11 Home/ 2 Years Premium Care/Backpack",
+        "brands"   : "Lenovo",
+        "price"    : 959,
+        "discount" : 910
+    },
+    {
+        "id"       : 3,
+        "title"    : "Lenovo LOQ 15ARP9",
+        "image"    : "https://www.gamingstorekh.com/Content/Upload/Item/2c4f8b7f-465a-4965-8740-5a0ad6211087.png",
+        "detail"   : "RYZEN_7_7435HS 24GB (12GB+12GB) DDR5 4800 SODIMM 512GB SSD M.2 2242 G4 NoDVD 15.6” FHD 144Hz Non-Touch W11H64 WLAN BT WC BL 4C RTX4060 8GB Luna Grey, 2Y Premium Care -IPENTRY (ESS)",
+        "brands"   : "Lenovo",
+        "price"    : 1149,
+        "discount" : 1099
+    },
+    {
+        "id"       : 4,
+        "title"    : "Lenovo LOQ 15IAX9E",
+        "image"    : "https://www.gamingstorekh.com/Content/Upload/Item/46508ee6-ae09-4af3-9428-2e2b90890bb4.png",
+        "detail"   : "Core i5-12450HX 12GB (1x12GB) DDR5 4800 SODIMM 512GB SSD M.2 2242 G4 NoDVD 15.6” FHD Non-Touch W11H64 WLAN BT WC BL 3C RTX3050 6GB Luna Grey, 2Y Premium Care -IPENTRY (ESS)",
+        "brands"   : "Lenovo",
+        "price"    : 719,
+        "discount" : 699
+    },
+    {
+        "id"       : 5,
+        "title"    : "Lenovo LOQ 15IRX9",
+        "image"    : "https://www.gamingstorekh.com/Content/Upload/Item/75618329-4640-483b-ac8c-a9a3dc002877.png",
+        "detail"   : "Core i7-13650HX 24GB(12GB+12GB) DDR5 4800 SODIMM 512GB SSD M.2 2242 G4 NoDVD 15.6” FHD 144Hz Non-Touch W11Home WLAN BT WC BL 4C RTX4060 8GB Luna Grey, 3Y Premium Care–IPENTRY (ESS) ",
+        "brands"   : "Lenovo",
+        "price"    : 1319,
+        "discount" : 1299
+    },
+    {
+        "id"       : 6,
+        "title"    : "Lenovo IdeaPad 1 15IJL7 Cloud Grey",
+        "image"    : "https://www.gamingstorekh.com/Content/Upload/Item/54a92400-283b-4dac-b3b9-b7a15d19011a.png",
+        "detail"   : "Celeron® N4500/ Intel® UHD Graphics/ 8GB SO-DIMM DDR4/ 512GB G4/ 15.6 FHD 220nits / Non-backlit/ HD 720p with Privacy Shutter/ Win11/ 2Y Premium Care/Bag",
+        "brands"   : "Lenovo",
+        "price"    : 299,
+        "discount" : 279
+    },
+    {
+        "id"       : 7,
+        "title"    : "Lenovo LegionPro5 16IRX9",
+        "image"    : "https://www.gamingstorekh.com/Content/Upload/Item/6e1f152c-0fe0-4837-932a-33c88034b549.jpg",
+        "detail"   : "Core i9-14900HX 32GB (16GB+16GB) DDR5 5600 SODIMM, 1TB SSD M.2 2280 G4 NoDVD 16” WQXGA 240Hz Non-Touch W11Home Plus APAC PPP WLAN BT WC BL 4C RTX4070 8GB Onyx Grey, 3Y Premium Care -IPMAIN (ESS)",
+        "brands"   : "Lenovo",
+        "price"    : 2099,
+        "discount" : 1950
+    },
+    {
+        "id"       : 8,
+        "title"    : "Lenovo Legion5 15IRX9",
+        "image"    : "https://www.gamingstorekh.com/Content/Upload/Item/46eeff70-b9b0-4839-9cfe-fe1c0b42dfa5.png",
+        "detail"   : "Core i7-13650HX 24GB (12GB+12GB) DDR5 4800 SODIMM 512GB SSD M.2 2242 G4 NoDVD 15.6” FHD 144Hz Non-Touch W11H WLAN BT WC BL 4C RTX4060 8GB Storm Grey, 3Y Premium Care -IPMAIN (ESS)",
+        "brands"   : "Lenovo",
+        "price"    : 1390,
+        "discount" : 1299
+    },
+    {
+        "id"       : 9,
+        "title"    : "Lenovo IdeaPad 1 14IGL7-Cloud Grey",
+        "image"    : "https://www.gamingstorekh.com/Content/Upload/Item/c5438815-0f4c-44f7-92fe-ad4b8ce9a4a9.jpg",
+        "detail"   : "Celeron N4020 / 8GB DDR4 / 256GB PCIe G4/14.0 FHD / DOS /2 Years Premium Care/bag",
+        "brands"   : "Lenovo",
+        "price"    : 279,
+        "discount" : 169
+    },
+    {
+        "id"       : 10,
+        "title"    : "Lenovo Yoga Pro 7-14IRH8 Tidal Teal",
+        "image"    : "https://www.gamingstorekh.com/Content/Upload/Item/59edf224-8a8f-4a78-8ec7-ee0b9bb82911.jpg",
+        "detail"   : " Intel I7-13700H/16GB DDR 5 5200/512GB SSD Gen 4/INTEGRATED_GRAPHICS/14.5 WQXGA (Non-touch)/Backlit Keyboard/WIN 11 Home/3 Years Premium Care ",
+        "brands"   : "Lenovo",
+        "price"    : 1049,
+        "discount" : 999
+    },
+    {
+        "id"       : 11,
+        "title"    : "LENOVO Yoga 6 13ALC7 Dark Teal (Touch)",
+        "image"    : "https://www.gamingstorekh.com/Content/Upload/Item/05e14b14-21bf-45c8-bf56-f990d2608dbc.jfif",
+        "detail"   : "R5 5500U / 8GB DDR4 4266 / NVMe PCIe Gen 3 512GB / 13.3 WUXGA ( 1920x1200 ) Touch Screen/ AMD Radeon /W11 / Lenovo Digital Pen / backpack",
+        "brands"   : "Lenovo",
+        "price"    : 799,
+        "discount" : 749
+    },
+    {
+        "id"       : 12,
+        "title"    : "Acer Nitro Gaming Controller Gamepad USB Negro",
+        "image"    : "https://www.gamingstorekh.com/Content/Upload/ItemThumbnail/87b10e3f-20de-4aa4-b555-416dec629937.jpg",
+        "detail"   : "Lenovo ThinkPad E14 Gen 2 (20TBS4K300) Laptop (Intel Core i5-1135G7/ 8GB RAM/ 512GB SSD/ DOS/ 14 FHD/ 3 Years Warranty), Black",
+        "brands"   : "Lenovo",
+        "price"    : 700,
+        "discount" : 690
+    },
+    {
+        "id"       : 13,
+        "title"    : "LENOVO IdeaPad 3 14IAU7 Arctic Grey",
+        "image"    : "https://www.gamingstorekh.com/Content/Upload/Item/9cccef31-24dd-4b3a-b0d4-c52edb0631ab.jpeg",
+        "detail"   : " i5-1235U / 8GB onboard DDR4 3200 / NVMe PCIe Gen 4 512GB / 14 FHD IPS / Intel Iris Xe/FINGERPRINT_READER/ W11_Home/backpack",
+        "brands"   : "Lenovo",
+        "price"    : 649,
+        "discount" : 589
+    },
+    {
+        "id"       : 14,
+        "title"    : "Lenovo ThinkPad E16 Business Laptop",
+        "image"    : "https://m.media-amazon.com/images/I/712KStt+31L._AC_SX466_.jpg",
+        "detail"   : "16 WUXGA Display, AMD Ryzen 5 7530U (Beat i7-1165G7), 24GB RAM, 1TB PCIe SSD, Webcam, HDMI, RJ-45, Fingerprint Reader, Wi-Fi 6, Windows 11 Pro, Black",
+        "brands"   : "Lenovo",
+        "price"    : 654,
+        "discount" : 611
+    },
+    {
+        "id"       : 15,
+        "title"    : "Lenovo Thinkbook 16 Ultra 7 155H Premium Laptop",
+        "image"    : "https://m.media-amazon.com/images/I/81k6SvHC23L.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+        "detail"   : "Computer Intel 16-Core 16 FHD 16GB DDR5 512GB SSD Arc Graphics Backlit Keyboard Thunderbolt Win 11 Pro NPU AI Experience Copilot Business Laptop AZXUT",
+        "brands"   : "Lenovo",
+        "price"    : 899,
+        "discount" : 877
+    },
+    {
+        "id"       : 16,
+        "title"    : "Lenovo ThinkBook 16 G6",
+        "image"    : "https://m.media-amazon.com/images/I/716UJCI0WsL._AC_SX466_.jpg",
+        "detail"   : "16 FHD+ Laptop Computer, AMD 8-Core Ryzen 7 7730U (Beat i7-1360P), 32GB DDR4 RAM, 1TB PCIe SSD, WiFi 6, Bluetooth 5.3, Type-C 3.2, Fingerprint Reader, Windows 11 Pro, AZ-XUT",
+        "brands"   : "Lenovo",
+        "price"    : 739,
+        "discount" : 700
+    },
+    {
+        "id"       : 17,
+        "title"    : "Legion 5i 16 - 83DG00DHUS",
+        "image"    : "https://m.media-amazon.com/images/I/815yFskJwhL._AC_SX466_.jpg",
+        "detail"   : "Lenovo Legion 5i - 16” Display - Intel Core i9-14900HX - NVIDIA GeForce RTX 4070-32GB RAM - 512GB SSD - G-SYNC - Windows 11 Home - USB-A and USB-C Ports - Privacy Shutter Camera - Luna Grey",
+        "brands"   : "Lenovo",
+        "price"    : 1556,
+        "discount" : 1499
+    },
+    {
+        "id"       : 18,
+        "title"    : "ThinkPad",
+        "image"    : "https://m.media-amazon.com/images/I/712P6GANY1L._AC_SX466_.jpg",
+        "detail"   : "Lenovo ThinkPad E16 G2 16 FHD+ AI Business Laptop Computer, Intel 16-Core Ultra 7 155H (Beat i7-13705H), Arc Graphics, 64GB DDR5 RAM, 2TB PCIe SSD, WiFi 6E, Backlit KB, FR, Windows 11 Pro, AZ-XUT",
+        "brands"   : "Lenovo",
+        "price"    : 1389,
+        "discount" : 1310
+    },
+    {
+        "id"       : 19,
+        "title"    : "T14 Gen 5",
+        "image"    : "https://m.media-amazon.com/images/I/61ZIllpxovL._AC_SX466_.jpg",
+        "detail"   : "Lenovo ThinkPad T14 Gen 5 AI Business Laptop 14.0 IPS FHD+ (Intel Core Ultra 7 155U(>i7-13700H), 32GB DDR5, 1TB SSD, Copilot, Backlit KB, Fingerprint, 2 Thunderbolt 4, 5MP Webcam, DKZ Hub, Win11P)",
+        "brands"   : "Lenovo",
+        "price"    : 1119,
+        "discount" : 1099
+    },
+    {
+        "id"       : 20,
+        "title"    : "Lenovo 2023 V15 G3",
+        "image"    : "https://m.media-amazon.com/images/I/71i8BFepTWL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+        "detail"   : "Lenovo 2023 V15 G3 15.6 FHD Business Laptop Computer, 12th Gen Intel 10 Cores i5-1235U (Beat i7-1195G7), 24GB DDR4 RAM, 1TB PCIe SSD, 802.11AC WiFi, Bluetooth 5.1, Windows 11 Pro, AZ-XUT Cable",
+        "brands"   : "Lenovo",
+        "price"    : 690,
+        "discount" : 599
+    }
+    
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "id"       : 1,
+        "title"    : "Gamepad Logitech Gamepad F310 Gamepad",
+        "image"    : "https://www.gamingstorekh.com/Content/Upload/ItemThumbnail/05aa60a2-b460-4e3e-955d-0efaba4e989a.jpg",
+        "other"    : "Broad game support—works with popular new titles and old favorites with popular new titles and old favorites",
+        "price"    : 30,
+        "discount" : 25
+    },
+    {
+        "id"       : 2,
+        "title"    : "ASUS ProArt PA329CRV 32'' (4K 60Hz Flat)",
+        "image"    : "https://www.gamingstorekh.com/Content/Upload/ItemThumbnail/4c8d0b4d-7656-41b1-947a-72a4c5501ae0.png",
+        "other"    : "ASUS ProArt Display PA329CRV Professional Monitor32-inch (31.5-inch viewable), IPS, 4K UHD (3840 x 2160), 98% DCI-P3, Color Accuracy ΔE < 2, Calman Verified, USB-C PD 96W, VESA DisplayHDR 400, VESA MediaSync, Ergonomic Stand, Green Sustainability",
+        "price"    : 799,
+        "discount" : 725
+    },
+    {
+        "id"       : 3,
+        "title"    : "DXRacer Formula Series 2025 Black Red",
+        "image"    : "https://www.gamingstorekh.com/Content/Upload/ItemThumbnail/0c4ac131-d445-4721-99d3-f925ecc64dfc.png",
+        "other"    : "អាចទ្រទំងន់បានដល់ 125KG GC/LFD23LTC/NR",
+        "price"    : 195,
+        "discount" : 185 
+    },
+    {
+        "id"       : 4,
+        "title"    : "Doraemon Classic 3087 Akko 2nd Orange",
+        "image"    : "https://www.gamingstorekh.com/Content/Upload/ItemThumbnail/4ac4019b-bfbd-47de-a530-37483d7a34e0.jpg",
+        "other"    : "( USB Type C​ / No RGB / Akko 2nd Orange Switch / N-Key Rollover / Mechanical Keyboard ), 2 Years",
+        "price"    : 95,
+        "discount" : 75 
+    },
+    {
+        "id"       : 5,
+        "title"    : "Logitech F710 Wireless Gamepad",
+        "image"    : "https://www.gamingstorekh.com/Content/Upload/ItemThumbnail/50d730e9-db52-4971-821c-12c84a02f6aa.jpg",
+        "other"    : "2.4 ghz wireless connectivityCustomizable controls with profiler software (requires software installation)Dual vibration motors support vibration feedback gamesorkswith windows xp, vista, windows 7 and windows 8",
+        "price"    : 65,
+        "discount" : 50 
+    },
+    {
+        "id"       : 6,
+        "title"    : "ROG Strix XG32WCS 32'' (180Hz 2K Curved)",
+        "image"    : "https://www.gamingstorekh.com/Content/Upload/ItemThumbnail/dee0a215-21da-4d54-b00e-ef237843c5cf.png",
+        "other"    : "ROG Strix XG32WCS USB Type-C Gaming Monitor – 32-inch (31.5 viewable) 2560x1440, Curved, 180Hz (Above 144Hz), 1ms (GTG), Fast VA, Extreme Low Motion Blur Sync, USB Type-C, FreeSync, DisplayWidget Center, tripod socket, HDR",
+        "price"    : 395,
+        "discount" : 295 
+    },
+    {
+        "id"       : 7,
+        "title"    : "DXRacer CRAFT Hello Human Cat",
+        "image"    : "https://www.gamingstorekh.com/Content/Upload/ItemThumbnail/bf040285-958b-4867-a7ba-0bc08115323a.png",
+        "other"    : "Customize your comfort level. The DXRacer Craft Hello Human Cat Gaming Chair is constructed with high-quality leather and a robust metal frame which can improve the durability of the overall build and also increase overall comfort when seated for long periods.",
+        "price"    : 309 ,
+        "discount" : 289  
+    },
+    {
+        "id"       : 8,
+        "title"    : "Prunus Lannesiana 3068B Plus",
+        "image"    : "https://www.gamingstorekh.com/Content/Upload/ItemThumbnail/d09d9dd6-e08f-4758-9439-9ee4b11b441c.jpg",
+        "other"    : "Prunus Lannesiana 3068B PlusBeken Plus Multi-modes Chip with BT5.0/2.4Ghz/Type-C All-in-One;5-Pin Hot-swappable(except for Number 1/2 that are 3-pin due to bezel angle of Type-C connector);Comes with Both Plate Foam and Case Foam;",
+        "price"    : 70 ,
+        "discount" : 52  
+    }
+    
+]

@@ -1,0 +1,182 @@
+[
+    {
+        "id"       : 1,
+        "title"    : "ASUS G614JVR-N3073W-Volt Green",
+        "image"    : "https://www.gamingstorekh.com/Content/Upload/ItemThumbnail/65951f45-465d-4a95-869a-47d978978c5c.png",
+        "detail"   : "i9 - 14900HX / RTX™ 4060 8GB GDDR6 / 16 FHD+ 16:10 (1920 x 1200, WUXGA) 165Hz IPS-level / DDR5 16GB / 1TB G4 / ROG Impact Gaming Mouse ,ROG backpack / Win11 / 2 Years (1Perfect warranty)",
+        "brands"   : "ASUS",
+        "price"    : 1649,
+        "discount" : 1549
+    },
+    {
+        "id"       : 2,
+        "title"    : "ASUS M1605YA-MB702W-Indie Black",
+        "image"    : "https://www.gamingstorekh.com/Content/Upload/ItemThumbnail/204e1b76-1127-4bae-b8e6-b84e0bee94c3.png",
+        "detail"   : "AMD Ryzen™ 5 7430U / AMD Radeon™ Graphics / 16.0 WUXGA (1920 x 1200) 16:10 60HzIPS-level Panel / DDR4 16GB / 512GB G3 / Backpack / Win11 / 2 Years (1Perfect warranty)",
+        "brands"   : "AMD",
+        "price"    : 649,
+        "discount" : 549
+    },
+    {
+        "id"       : 3,
+        "title"    : "ASUS FA706NFR-HX033W-Graphite Black",
+        "image"    : "https://www.gamingstorekh.com/Content/Upload/ItemThumbnail/160d2984-46da-4b62-bff0-20a09beec017.png",
+        "detail"   : "R 7 7435HS / RTX™ 2050 4GB GDDR6 / 17.3 FHD (1920 x 1080) 16:9 144Hz Value IPS-level / DDR5 8GB / 512GB G4 / P309 TUF GAMING M3 ,TUF backpack / Win11 / 2 Years (1Perfect warranty)",
+        "brands"   : "ASUS",
+        "price"    : 849,
+        "discount" : 749
+    },
+    {
+        "id"       : 4,
+        "title"    : "MSI Cyborg 15 A13VEK-1663KH-Translucent Black",
+        "image"    : "https://www.gamingstorekh.com/Content/Upload/ItemThumbnail/2a4c20c7-b289-4767-a579-a96946bf912f.png",
+        "detail"   : "i7-13620H / RTX 4050, GDDR6 6GB / 15.6 FHD (1920*1080), 144Hz 45%NTSC IPS-Level / DDR5 16GB / 1TB Gen4 / 4-Zone RGB Gaming Keyboard / Win11 / MSI Gaming Mouse_ M99 Pro , MSI Essential Backpack / 2 Year Warranty",
+        "brands"   : "MSI",
+        "price"    : 1100,
+        "discount" : 999
+    },
+    {
+        "id"       : 5,
+        "title"    : "Lenovo LOQ 15IAX9E Lenovo LOQ 15IAX9E",
+        "image"    : "https://www.gamingstorekh.com/Content/Upload/ItemThumbnail/46508ee6-ae09-4af3-9428-2e2b90890bb4.png",
+        "detail"   : "Core i5-12450HX 12GB (1x12GB) DDR5 4800 SODIMM 512GB SSD M.2 2242 G4 NoDVD 15.6” FHD Non-Touch W11H64 WLAN BT WC BL 3C RTX3050 6GB Luna Grey, 2Y Premium Care -IPENTRY (ESS)",
+        "brands"   : "Lenovo",
+        "price"    : 750,
+        "discount" : 719
+    },
+    {
+        "id"       : 6,
+        "title"    : "ASUS GA605WV-QR143WS-Eclipse Gray",
+        "image"    : "https://www.gamingstorekh.com/Content/Upload/ItemThumbnail/7c311945-4bc1-4d4f-bfae-32e20ddc2789.png",
+        "detail"   : "Ryzen™ AI 9 HX 370 / RTX™ 4060 8GB GDDR6 / 16 2.5K (2560 x 1600, WQXGA) 16:10 240Hz OLED / LPDDR5X 32GB / 1TB Gen4 / ROG Impact Gaming Mouse ,ROG Zephyrus G16 Sleeve (2024) / Win11 / 2 Years (1Perfect warranty)",
+        "brands"   : "ASUS",
+        "price"    : 2000,
+        "discount" : 1999
+    },
+    {
+        "id"       : 7,
+        "title"    : "Crosshair 17 HX D14VGKG-235KH Cosmos Gray",
+        "image"    : "https://www.gamingstorekh.com/Content/Upload/ItemThumbnail/f02023a2-0804-47d9-bb17-ab22bb4c353b.png",
+        "detail"   : "i7-14650HX/ RTX 4070, GDDR6 8GB / DDR5 8GB*2 / 1TB Gen4 / 17 16:10 QHD+(2560 x1600), 240Hz, 100% DCI-P3, IPS-level panel / Win11/ MSI GamingMouse_ M99 Pro, MSI EssentialBackpack / 2 Year Warranty",
+        "brands"   : "MSI",
+        "price"    : 1799,
+        "discount" : 1699
+    },
+    {
+        "id"       : 8,
+        "title"    : "Lenovo Legion5 15IRX9",
+        "image"    : "https://www.gamingstorekh.com/Content/Upload/ItemThumbnail/46eeff70-b9b0-4839-9cfe-fe1c0b42dfa5.png",
+        "detail"   : "Core i7-13650HX 24GB (12GB+12GB) DDR5 4800 SODIMM 512GB SSD M.2 2242 G4 NoDVD 15.6” FHD 144Hz Non-Touch W11H WLAN BT WC BL 4C RTX4060 8GB Storm Grey, 3Y Premium Care -IPMAIN (ESS)",
+        "brands"   : "Lenovo",
+        "price"    : 1590,
+        "discount" : 1390
+    },
+    {
+        "id"       : 9,
+        "title"    : "GZ301VV-MU013W 1A-BLACK",
+        "image"    : "https://www.gamingstorekh.com/Content/Upload/ItemThumbnail/4eaf9053-0e34-451e-a5a9-e009523c11f4.jpg",
+        "detail"   : "i9-13900H /RTX4060 8G/LPDDR5 16GB /1TB Gen4 / QHD+ 165Hz Nebula /Win11 / ROG Flow Sleeve (2022), ROG Fusion II 300, Stylus (ASUS Pen SA203), ROG Gladius III Mouse P514/ 2 Year (1 Year Perfect Warranty",
+        "brands"   : "ASUS",
+        "price"    : 2199,
+        "discount" : 2099
+    },
+    {
+        "id"       : 10,
+        "title"    : "ASUS UX8402VV-P1018W-TECH BLACK (TOUCH)",
+        "image"    : "https://www.gamingstorekh.com/Content/Upload/ItemThumbnail/783b356a-fb39-43e2-8ef9-1d323b5b75f2.png",
+        "detail"   : "Intel Core i9-13900H / LPDDR5 32G  [ON BD]  /Gen4 performance 1TB/RTX 4060-8GB  / 14.5 OLED 2.8K 16:10 OLED Touch 120Hz / Win 11 / SLEEVE,STYLUS,STAND / 3 Years",
+        "brands"   : "ASUS",
+        "price"    : 2599,
+        "discount" : 2399
+    },
+    {
+        "id"       : 11,
+        "title"    : "FANTECH ATOM PRO83 MK913 WIRELESS MECHANICAL GAMING KEYBOARD TRI-MODE CONNECTION STELLAR EDITION MERCURY",
+        "image"    : "https://www.gamingstorekh.com/Content/Upload/ItemThumbnail/fcae37bd-2127-4650-9ee3-b0469bf51095.png",
+        "detail"   : "FANTECH ATOM PRO83 MK913 WIRELESS MECHANICAL GAMING KEYBOARD TRI-MODE CONNECTION STELLAR EDITION MERCURY",
+        "brands"   : "FANTECH",
+        "price"    : 55,
+        "discount" : 49
+    },
+    {
+        "id"       : 12,
+        "title"    : "FANTECH ATOM PRO83 MK913 WIRELESS MECHANICAL GAMING KEYBOARD TRI-MODE CONNECTION STELLAR EDITION SATURN",
+        "image"    : "https://www.gamingstorekh.com/Content/Upload/ItemThumbnail/b378d947-2754-4719-9403-4bb00e612d6b.png",
+        "detail"   : "FANTECH ATOM PRO83 MK913 WIRELESS MECHANICAL GAMING KEYBOARD TRI-MODE CONNECTION STELLAR EDITION SATURN",
+        "brands"   : "FANTECH",
+        "price"    : 90,
+        "discount" : 80
+    },
+    {
+        "id"       : 13,
+        "title"    : "3098B World Tour Tokyo R2 Multi-Mode TTC Gold Blue",
+        "image"    : "https://www.gamingstorekh.com/Content/Upload/ItemThumbnail/fcae37bd-2127-4650-9ee3-b0469bf51095.png",
+        "detail"   : "Beken Plus Multimode Chip with BT5. 0/2 4Ghz/Type-C All in One;5-pin hot-swappable;Comes with Both Plate Foam and Case Foam;RGB backlit;3000mAh battery (FCC standard);Programmable with Dye-Sub PBT OEM Profile Keycaps",
+        "brands"   : "FANTECH",
+        "price"    : 85,
+        "discount" : 67 
+    },
+    {
+        "id"       : 14,
+        "title"    : "ASUS TUF Gaming K3 Gen II keyboard optical-mechanical RGB switches",
+        "image"    : "https://www.gamingstorekh.com/Content/Upload/ItemThumbnail/3c7e9457-0128-436f-9e2f-d8103b881c8c.png",
+        "detail"   : "ASUS TUF Gaming K3 Gen II keyboard with compact 97-key layout, optical-mechanical RGB switches, silicone-gasket mount, dampening foam, IP57 waterproofing, a detachable top plate, and Aura Sync compatibility.",
+        "brands"   : "ASUS TUF",
+        "price"    : 85,
+        "discount" : 75
+    },
+    {
+        "id"       : 15,
+        "title"    : "Doraemon Classic 3087 Akko 2nd pink",
+        "image"    : "https://www.gamingstorekh.com/Content/Upload/ItemThumbnail/c9af9703-13b8-4d6a-a2f0-b271b84bf488.jpg",
+        "detail"   : "( USB Type C / No RGB / Akko 2nd Pink Switch / N-Key Rollover / Mechanical Keyboard ), 2 Years",
+        "brands"   : "ASUS TUF",
+        "price"    : 52,
+        "discount" : 75
+    },
+    {
+        "id"       : 16,
+        "title"    : "Asus M701 ROG Azoth Gaming Keyboard",
+        "image"    : "https://www.gamingstorekh.com/Content/Upload/ItemThumbnail/8c1f5729-7a28-4c45-97ea-aa2be2f1dca4.png",
+        "detail"   : "ROG Azoth gaming custom keyboard with 75 keyboard form factor, gasket mount, three-layer dampening foam and metal top cover, highly customizable with hot-swappable pre-lubed ROG NX mechanical switches, ROG keyboard stabilizers, PBT doubleshot keycaps and lube kit, tri-mode connection with 2.4 GHz SpeedNova technology, OLED display, three-way control knob, three tilt angles, and Mac support",
+        "brands"   : "ROG Azoth",
+        "price"    : 249,
+        "discount" : 209
+    },
+    {
+        "id"       : 17,
+        "title"    : "Logitech G502 X Gaming Mouse White",
+        "image"    : "https://www.gamingstorekh.com/Content/Upload/ItemThumbnail/5bce55f0-f05c-4f13-a5c5-130916037508.jpg",
+        "detail"   : "Logitech G502 X Gaming Mouse White Logitech G502 X Gaming Mouse White Logitech G502 X Gaming Mouse White",
+        "brands"   : "Logitech G",
+        "price"    : 89,
+        "discount" : 79
+    },
+    {
+        "id"       : 18,
+        "title"    : "ROG Keris Gaming Mouse",
+        "image"    : "https://www.gamingstorekh.com/Content/Upload/ItemThumbnail/a0a42e9d-2de5-44e9-8f3f-be4e49bdb39c.png",
+        "detail"   : "Lightweight FPS gaming mouse with specially tuned ROG 16,000 dpi sensor, exclusive push-fit switch sockets, PBT polymer L/R keys, ROG Omni Mouse Feet, ROG Paracord and Aura Sync RGB lighting",
+        "brands"   : "ROG Keris",
+        "price"    : 59,
+        "discount" : 39
+    },
+    {
+        "id"       : 19,
+        "title"    : "Razer Orochi V2 - Mobile Wireless Gaming Mouse - White Edition",
+        "image"    : "https://www.gamingstorekh.com/Content/Upload/ItemThumbnail/19ee593a-435a-4689-892e-e417f62588be.jpg",
+        "detail"   : "Razer Orochi V2 - Mobile Wireless Gaming Mouse - White EditionRazer Orochi V2 - Mobile Wireless Gaming Mouse - White Edition",
+        "brands"   : "Razer",
+        "price"    : 59,
+        "discount" : 55
+    },
+    {
+        "id"       : 20,
+        "title"    : "P309 ASUS TUF GAMING M3 Gen II",
+        "image"    : "https://www.gamingstorekh.com/Content/Upload/ItemThumbnail/65d7d39f-c505-4862-a25d-6c9e153dbe8b.png",
+        "detail"   : "ASUS TUF Gaming M3 Gen II is an ultralight 59-gram wired gaming mouse with IP56 dust and water resistance, ASUS Antibacterial Guard, an 8000 dpi sensor, 60-million-click lifespan switches, PTFE mouse feet, and six programmable buttons.",
+        "brands"   : "ASUS TUF",
+        "price"    : 39,
+        "discount" : 29
+    }
+]
